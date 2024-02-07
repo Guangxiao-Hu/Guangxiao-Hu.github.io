@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+age# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Guangxiao Hu / personal website"
+title                    : "Guangxiao Hu / Homepage"
 title_separator          : "-"
 name                     : &name "Guangxiao Hu"
 description              : &description "personal description"
@@ -83,12 +83,12 @@ author:
   name             : "Guangxiao Hu"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Maryland, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=B2ZsQYcAAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "gxhu@umd.edu"
+  researchgate     :  "https://www.researchgate.net/profile/Guangxiao-Hu-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "guangxiao-hu"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-7308-5947"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
