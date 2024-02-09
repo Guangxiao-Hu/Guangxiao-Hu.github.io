@@ -83,12 +83,12 @@ author:
   name             : "Guangxiao Hu"
   avatar           : "gxhu.png"
   bio              : "Postdoctoral associate at University of Maryland"
-  location         : "Maryland, USA"
+  location         : "College Park, MD, USA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=B2ZsQYcAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/Guangxiao-Hu-2"
+  researchgate     : "https://www.researchgate.net/profile/Guangxiao-Hu-2"
   uri              :
   bitbucket        :
   codepen          :
