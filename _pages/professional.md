@@ -11,7 +11,10 @@ redirect_from:
 
 ## Reviewer for:
 * Journals:
-	IEEE Transactions on Wireless Communication, IEEE Transactions on Mobile Computing, IEEE Transactions on Circuits and Systems for Video Technology, IEEE/ACM Transactions on Networking, IEEE Internet of Things Journal, IEEE Signal Process Letters, IEEE Communication Letters, IEEE Open Journal of the Communications Society
-* Conferences:
-	ICASSP2023, MLSP2023, CAI2023, BMVC2023, ICASSP2024
+	Sustainable Production and Consumption, Science of The Total Environment, Environmental Research Letters
+
+## More
+* Member, American Geophysical Union (AGU)
+* Member, American Association of Geographers (AAG)
+* Member, International Society for Industrial Ecology
 
