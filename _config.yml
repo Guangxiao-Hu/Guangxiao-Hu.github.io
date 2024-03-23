@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Guangxiao Hu / Homepage"
+title                    : "Guangxiao Hu"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
