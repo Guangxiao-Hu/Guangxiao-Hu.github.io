@@ -1,10 +1,8 @@
 ---
-layout: single
-title: "Curriculum Vitae"
-sitemap: false
-permalink: /Curriculum/
-author_profile: TRUE
+layout: default
+permalink: /cv/
+title: cv
+nav: true
+nav_order: 4
+redirect_to: /files/CVGuangxiaoHu03232024.pdf
 ---
-
-
-<embed src="https://Guangxiao-Hu.github.io/tree/master/files/CVGuangxiaoHu03232024.pdf" type="application/pdf"/>
