@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Guangxiao Hu joined the Center for Global Sustainability (CGS) as a postdoctoral research associate. Hu’s research fields include environmental economics, environmental justice, and spatial analysis. She is especially interested in the spatial analysis of environmental justice and energy justice using various models including the Input-output model, spatial econometric model, etc. She holds a Ph.D. in geographical sciences from the University of Maryland, where her research focuses on the spatial variations in the relationships between pollution and racial disparity/socioeconomic indicators. She holds a master’s degree in environmental sciences from Peking University, China, and a bachelor’s degree in economics from Hunan University, China. 
+I joined [the Center for Global Sustainability (CGS) as a postdoctoral research associate](https://cgs.umd.edu/our-community/faculty-staff/guangxiao-hu) in July 2023. My research fields include environmental economics, environmental justice, and spatial analysis. I'm especially interested in the spatial analysis of environmental justice and energy justice using various models including the Input-output model, spatial econometric model, etc. I hold a Ph.D. in geographical sciences from the University of Maryland, where my research focuses on the spatial variations in the relationships between pollution and racial disparity/socioeconomic indicators.
 
 A data-driven personal website
 ======
