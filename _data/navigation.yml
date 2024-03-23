@@ -11,9 +11,6 @@ main:
     
   - title: "Media Coverage"
     url: /media/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
     
   - title: "CV"
     url: /cv/
