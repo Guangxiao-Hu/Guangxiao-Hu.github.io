@@ -11,7 +11,7 @@ redirect_from:
 
 ## Reviewer for:
 * Journals:
-	Sustainable Production and Consumption, Science of The Total Environment, Environmental Research Letters
+	Sustainable Production and Consumption, Science of The Total Environment, Environmental Research Letters, Environmental Research: Energy
 
 ## More
 * Member, American Geophysical Union (AGU)
