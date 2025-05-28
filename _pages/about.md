@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I joined [the Center for Global Sustainability (CGS) as a postdoctoral research associate](https://cgs.umd.edu/our-community/faculty-staff/guangxiao-hu) in July 2023. My research fields include environmental economics, environmental justice, and spatial analysis. I'm especially interested in the spatial analysis of environmental justice and energy justice using various models including the Input-output model, spatial econometric model, etc. I hold a Ph.D. in [geographical sciences from the University of Maryland](https://geog.umd.edu/), where my research focuses on the spatial variations in the relationships between pollution and racial disparity/socioeconomic indicators.
+I will be joining the Department of Earth, Environment and Planning, East Carolina University as an assistant professor in 2025 fall. My research fields include environmental economics, environmental justice, and spatial analysis. I'm especially interested in the spatial analysis of environmental justice and energy justice using various models including the Input-output model, spatial econometric model, etc. I hold a Ph.D. in [geographical sciences from the University of Maryland](https://geog.umd.edu/), where my research focuses on the spatial variations in the relationships between pollution and racial disparity/socioeconomic indicators.
 
 Employment
 ------
@@ -27,4 +27,4 @@ BA Economics
 
 Contact info
 ------
-Email: gxhu@umd.edu
+Email: hug25@ecu.edu
