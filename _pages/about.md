@@ -13,6 +13,7 @@ I will be joining the Department of Earth, Environment and Planning, East Caroli
 Employment
 ------
 August, 2025 ~ present: Assistant Professor, the Department of Earth, Environment and Planning, East Carolina University
+
 July, 2023 ~ July 2025: Postdoctoral Associate, the Center for Global Sustainability, School of Public Policy, University of Maryland
 
 Education
