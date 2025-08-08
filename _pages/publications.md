@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 ## Journal Articles
+[9] Ma, Z., **Hu, G.**, Lin, T. S., Li, L., Hu, S., Hagen, L., & Baecher, G. B. (2025). [Analyzing public response to wildfires: A socio-spatial study using SIR models and NLP techniques.](https://www.sciencedirect.com/science/article/abs/pii/S0198971525000869) Computers, Environment and Urban Systems, 121, 102333. (corresponding author).
+
+[8] Lou, J., **Hu, G.**, Shen, X., & Cui, R. Y. (2025). [Quantifying the economy-wide employment effects of coal-fired power plants: Two different cases China and the United States](https://www.sciencedirect.com/science/article/pii/S0306261924019445). Applied Energy, 377, 124561.
+
 [7] **Hu, G.**, Feng, K., & Sun, L. (2023). [Multiscale Analysis of the Relationship between Toxic Chemical Hazard Risks and Racial/Ethnic and Socioeconomic Groups in Texas, USA](https://pubs.acs.org/doi/abs/10.1021/acs.est.2c04302). Environmental Science & Technology, 57(5), 2019-2030. 
 
 [6]  **Hu, G.**, Feng, K., Sun, L., & Baiocchi, G. (2023). [Tracing toxic chemical releases embodied in US interstate trade and their unequal distribution](https://www.sciencedirect.com/science/article/pii/S0160412022006080). Environment international, 171, 107681. 
