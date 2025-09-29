@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+💡 **Now Recruiting:** 
+I am seeking highly motivated candidates for one **fully funded Ph.D. position** and one **master’s position** starting in Fall 2026. Both students will work as **Graduate Research Assistants**. [Learn more here](https://coastal.ecu.edu/coastalstudies/wp-content/pv-uploads/sites/93/PhD-student-recruitment-2026-Fall-Guangxiao-Hu.pdf).
+
+
 I joined the Department of Earth, Environment and Planning, East Carolina University as an assistant professor in 2025 fall. My research fields include environmental economics, environmental justice, and spatial analysis. I'm especially interested in the spatial analysis of environmental justice and energy justice using various models including the Input-output model, spatial econometric model, etc. I hold a Ph.D. in [geographical sciences from the University of Maryland](https://geog.umd.edu/), where my research focuses on the spatial variations in the relationships between pollution and racial disparity/socioeconomic indicators.
 
 Employment
