@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Journal Articles
-[10] Sun, J., **Hu, G.**, Zhou, W., Sun, L.,  Feng, K. (2026). [Unequal air quality benefits from EV adoption in California, the world’s EV leader](https://www.sciencedirect.com/science/article/pii/S0959378026000154) Global Environmental Change, 97, 103126.
+[10] Sun, J., **Hu, G.**, Zhou, W., Sun, L.,  Feng, K. (2026). [Unequal air quality benefits from EV adoption in California, the world’s EV leader.](https://www.sciencedirect.com/science/article/pii/S0959378026000154) Global Environmental Change, 97, 103126.
 
 [9] Ma, Z., **Hu, G.**, Lin, T. S., Li, L., Hu, S., Hagen, L., & Baecher, G. B. (2025). [Analyzing public response to wildfires: A socio-spatial study using SIR models and NLP techniques.](https://www.sciencedirect.com/science/article/abs/pii/S0198971525000869) Computers, Environment and Urban Systems, 121, 102333. (corresponding author).
 
