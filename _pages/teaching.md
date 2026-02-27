@@ -7,6 +7,13 @@ author_profile: true
 
 
 ## Instructor
+[5] Spring 2026: Special topics: energy geographies (GEOG3100), at the Department of Earth, Environment, and Planning, East Carolina University, USA.
+
+[4] Spring 2026: People, Places, and Environments (GEOG1000), at the Department of Earth, Environment, and Planning, East Carolina University, USA.
+
+[3] Fall 2025: Advanced Geographical Information Systems (GEOG6430) / Geographical Information Systems II (GEOG4430), at the Department of Earth, Environment, and Planning, East Carolina University, USA.
+
+[2] Fall 2024: Principles of Python Programming and Geocomputing (GEOG276-FC01), at the Department of Geographical Sciences, University of Maryland, USA.
 
 [1] Summer II 2023, Summer II 2022, Winter 2022, Summer 2021. Natural Disasters: Earthquakes, Floods, and Fire (GEOG140), at the Department of Geographical Sciences, University of Maryland, USA.
 
