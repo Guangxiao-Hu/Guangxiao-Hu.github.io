@@ -7,13 +7,13 @@ author_profile: true
 
 ## Conference Presentations
 
-[4] **Hu, G.**, Feng, K., Sun, L. 2023, May. Multiscale Analysis of the Relationship between Toxic Chemical Hazard Risks and Racial/Ethnic and Socioeconomic Groups in Texas, USA. Poster presentation at 2023 BSOS Resilience Research Showcase. 
+[4] **Hu, G.**, Feng, K., Sun, L. (May 2023). Multiscale Analysis of the Relationship between Toxic Chemical Hazard Risks and Racial/Ethnic and Socioeconomic Groups in Texas, USA. Poster presentation at 2023 BSOS Resilience Research Showcase. 
 
-[3] **Hu, G.**, Feng, K., Sun, L. 2023, March. Is pollution inequality improved or worsen over time? Spatiotemporal heterogeneity of the impact of racial disparities and socioeconomic development on toxic risk. Oral presentation at 2023 AAG Annual Meeting.
+[3] **Hu, G.**, Feng, K., Sun, L. (March 2023). Is pollution inequality improved or worsen over time? Spatiotemporal heterogeneity of the impact of racial disparities and socioeconomic development on toxic risk. Oral presentation at 2023 AAG Annual Meeting.
 
-[2] **Hu, G.**, 2021, December. Pollution Inequality of Toxic Chemical Release Embodied in Final Demand by States and Income Groups in the US. Poster Presentation at AGU Fall Meeting (GC25G-0729).
+[2] **Hu, G.**, (December 2021). Pollution inequality of toxic chemical release embodied in final demand by states and income groups in the US. Poster Presentation at AGU Fall Meeting (GC25G-0729).
 
-[1] **Hu, G.**, Feng, K. 2021, June. Pollution inequality of toxic chemical release embodied in interregional trade in the US”. Oral presentation at International Industrial Ecology Day 2021. 
+[1] **Hu, G.**, Feng, K. (June 2021). Pollution inequality of toxic chemical release embodied in interregional trade in the US”. Oral presentation at International Industrial Ecology Day 2021. 
 
 ## Invited talks
 [5] **Hu, G.**, (February 2026). Building an interdisciplinary research pathway: from PhD training to the faculty job market, ICS Lab meeting, Integrated Coastal Programs, East Carolina University, USA.
