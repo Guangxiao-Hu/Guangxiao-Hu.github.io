@@ -16,15 +16,15 @@ author_profile: true
 [1] **Hu, G.**, Feng, K. 2021, June. Pollution inequality of toxic chemical release embodied in interregional trade in the US”. Oral presentation at International Industrial Ecology Day 2021. 
 
 ## Invited talks
-[5] **Hu, G.**, (Februray 2026). Building an interdisciplinary research pathway: from PhD training to the faculty job market, ICS Lab meeting, Integrated Coastal Programs, East Carolina University, USA.
+[5] **Hu, G.**, (February 2026). Building an interdisciplinary research pathway: from PhD training to the faculty job market, ICS Lab meeting, Integrated Coastal Programs, East Carolina University, USA.
 
-[4] **Hu, G.**, (Februray 2026). Revealing spatiotemporal variations in environmental inequality, Lunch and Learn Series, Department of Public Health, East Carolina University, USA.
+[4] **Hu, G.**, (February 2026). Revealing spatiotemporal variations in environmental inequality, Lunch and Learn Series, Department of Public Health, East Carolina University, USA.
 
 [3] **Hu, G.**, (November 2025). GIS application in visualizing environmental inequality, GIS Day, East Carolina University, USA.
 
 [2] **Hu, G.**, (December 25, 2023). "Revealing variations in environmental inequality," invited by Weihai Institute for Interdisciplinary Research, Shandong University, China.
 
-[1] **Hu, G.**, Jiehong Lou, (November 7, 2023). "Quantify the Economy-wide Employment effect from Coal-fired Power Plants - Two Different Cases China and the United States", at Center for Sustainability, Univerisity of Maryland, USA.
+[1] **Hu, G.**, Jiehong Lou, (November 7, 2023). "Quantify the Economy-wide Employment effect from Coal-fired Power Plants - Two Different Cases China and the United States", at Center for Sustainability, University of Maryland, USA.
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
