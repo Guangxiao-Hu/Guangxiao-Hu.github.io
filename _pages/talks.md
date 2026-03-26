@@ -7,6 +7,10 @@ author_profile: true
 
 ## Conference Presentations
 
+[6] **Hu, G.**. (March 2026). Cross-media pollution shifts and environmental inequality under fragmented regulation. Oral presentation at 2026 AAG Annual Meeting.
+
+[5] Ma, Z., **Hu, G.**, Lin, T., Li, L., Hu, S., & Baecher, G.B. (December 2024). Assessing Inequitable Social Responses to Wildfires: A Case Study of California Using the Epidemiology Model”. Oral presentation at 2024 AGU Fall Meeting 2024. 
+
 [4] **Hu, G.**, Feng, K., Sun, L. (May 2023). Multiscale Analysis of the Relationship between Toxic Chemical Hazard Risks and Racial/Ethnic and Socioeconomic Groups in Texas, USA. Poster presentation at 2023 BSOS Resilience Research Showcase. 
 
 [3] **Hu, G.**, Feng, K., Sun, L. (March 2023). Is pollution inequality improved or worsen over time? Spatiotemporal heterogeneity of the impact of racial disparities and socioeconomic development on toxic risk. Oral presentation at 2023 AAG Annual Meeting.
