@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-🎓 I am actively recruiting Ph.D. and Master’s students for interdisciplinary research in environmental geography, GIScience, spatial modeling, and sustainability science. Interested students are encouraged to contact me by email with their research interests and academic background.
 
 I joined [the Department of Earth, Environment and Planning](https://earth.ecu.edu/), East Carolina University as an assistant professor in 2025 fall. My research fields include environmental economics, environmental justice, and spatial analysis. I'm especially interested in the spatial analysis of environmental justice and energy justice using various models including the Input-output model, spatial econometric model, etc. I hold a Ph.D. in [geographical sciences from the University of Maryland](https://geog.umd.edu/), where my research focuses on the spatial variations in the relationships between pollution and racial disparity/socioeconomic indicators.
 
@@ -31,3 +30,7 @@ BA Economics
 Contact info
 ------
 Email: hug25@ecu.edu
+
+🎓 **I am currently accepting new Ph.D. and Master’s students!**
+
+I am actively recruiting Ph.D. and Master’s students for interdisciplinary research in environmental geography, GIScience, spatial modeling, and sustainability science. Interested students are encouraged to contact me by email with their research interests and academic background.
