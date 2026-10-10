@@ -7,9 +7,9 @@ author_profile: true
 
 ## Journal Articles
 
-[12] Kearney, GD., Obi, ON., Maddipati, V., Levitin, G., **Hu, G.**,  2026. [Social vulnerability and spatial patterns of COVID-19 mortality: Global implications for respiratory health equity](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352270). PLoS One 21(7): e0352270.
+[12] Kearney, GD., Obi, ON., Maddipati, V., Levitin, G., **Hu, G.**,  (2026). [Social vulnerability and spatial patterns of COVID-19 mortality: Global implications for respiratory health equity](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352270). PLoS One 21(7): e0352270.
 
-[11] Kearney, GD., **Hu, G.**, Voisin, JR. 2026. [Integrating Phenology as a Leading Indicator in Climate–Health Surveillance for Early Warning of Seasonal Pollen and Respiratory Risk](https://directivepublications.org/index.php/journal-of-climate-research/integrating-phenology-as-a-leading-indicator-in-climate-health-surveillance-for-early-warning-of-seasonal-pollen-and-respiratory-risk). Journal of Climate Research, 17 (1).
+[11] Kearney, GD., **Hu, G.**, Voisin, JR. (2026). [Integrating Phenology as a Leading Indicator in Climate–Health Surveillance for Early Warning of Seasonal Pollen and Respiratory Risk](https://directivepublications.org/index.php/journal-of-climate-research/integrating-phenology-as-a-leading-indicator-in-climate-health-surveillance-for-early-warning-of-seasonal-pollen-and-respiratory-risk). Journal of Climate Research, 17 (1).
 
 [10] Sun, J., **Hu, G.**, Zhou, W., Sun, L.,  Feng, K. (2026). [Unequal air quality benefits from EV adoption in California, the world’s EV leader.](https://www.sciencedirect.com/science/article/pii/S0959378026000154) Global Environmental Change, 97, 103126.
 
