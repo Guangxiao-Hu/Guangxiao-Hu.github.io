@@ -31,6 +31,6 @@ Contact info
 ------
 Email: hug25@ecu.edu
 
-🎓 **I am currently accepting new Ph.D. and Master’s students!**
+🎓 **I am currently accepting new Ph.D. and Master’s students! (Fall 2027)**
 
 I am actively recruiting Ph.D. and Master’s students for interdisciplinary research in environmental geography, GIScience, spatial modeling, and sustainability science. Interested students are encouraged to contact me by email with their research interests and academic background.
