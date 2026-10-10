@@ -7,6 +7,11 @@ author_profile: true
 
 
 ## Instructor
+
+[7] Fall 2026: GIS Applications Programming (GEOG3460) / Python for Geog Data Analysis (GEOG6450), at the Department of Earth, Environment, and Planning, East Carolina University, USA.
+
+[6] Fall 2026: People, Places, and Environments (GEOG1000), at the Department of Earth, Environment, and Planning, East Carolina University, USA.
+
 [5] Spring 2026: Special topics: energy geographies (GEOG3100), at the Department of Earth, Environment, and Planning, East Carolina University, USA.
 
 [4] Spring 2026: People, Places, and Environments (GEOG1000), at the Department of Earth, Environment, and Planning, East Carolina University, USA.
