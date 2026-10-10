@@ -7,6 +7,10 @@ author_profile: true
 
 ## Conference Presentations
 
+[8] **Hu, G.**, Liu, H., Ma, Z. (September 2026). Assessing Social Acceptance of Offshore Wind Deployment along the U.S. Atlantic Coast. Oral presentation at 5th Annual Energy Geographies Conference.
+
+[7] **Hu, G.**. (July 2026). Cross-Media Pollution Substitution and the Unequal Redistribution of Natural Capital Risk in the United States. Oral presentation at Natural Capital Symposium 2026.
+
 [6] **Hu, G.**. (March 2026). Cross-media pollution shifts and environmental inequality under fragmented regulation. Oral presentation at 2026 AAG Annual Meeting.
 
 [5] Ma, Z., **Hu, G.**, Lin, T., Li, L., Hu, S., & Baecher, G.B. (December 2024). Assessing Inequitable Social Responses to Wildfires: A Case Study of California Using the Epidemiology Model”. Oral presentation at 2024 AGU Fall Meeting 2024. 
